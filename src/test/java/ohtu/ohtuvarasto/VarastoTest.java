@@ -116,4 +116,6 @@ public class VarastoTest {
         assertEquals(odotettu, varastoSaldolla.toString());
     }
     
+    // heh heh
+    
 }

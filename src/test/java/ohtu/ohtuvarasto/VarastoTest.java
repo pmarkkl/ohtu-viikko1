@@ -112,7 +112,7 @@ public class VarastoTest {
     
     @Test
     public void varastonToString() {
-        String odotettu = "saldoz = " + varastoSaldolla.getSaldo() + ", vielä tilaa " + varastoSaldolla.paljonkoMahtuu();
+        String odotettu = "saldo = " + varastoSaldolla.getSaldo() + ", vielä tilaa " + varastoSaldolla.paljonkoMahtuu();
         assertEquals(odotettu, varastoSaldolla.toString());
     }
     

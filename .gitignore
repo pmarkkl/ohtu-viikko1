@@ -1,2 +1,7 @@
 *.tmp
 /build
+
+gradle.properties
+
+.vscode/
+

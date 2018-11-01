@@ -5,9 +5,9 @@ gradle.properties
 
 .vscode/
 
-.gradle
-.nb-gradle
-.settings
+.gradle/
+.nb-gradle/
+.settings/
 
 /RiippuvuuksienInjektointi1/.nb-gradle/
 /esimerkit/RiippuvuuksienInjektointi1/.nb-gradle/
